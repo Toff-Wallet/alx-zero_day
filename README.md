@@ -1,2 +1,2 @@
 README.md has been updated
-throuhh gibhub.com
+through gibhub.com
